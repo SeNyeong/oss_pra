@@ -34,7 +34,7 @@
   - 프로젝트 결과물은 네이버 서비스에 일부 반영됨  
   - GitHub 협업 경험 및 실전 개발 경험 습득
 
- ##  보유 기술
+ ## 보유 기술
  - **프로그래밍**: Python, Java, HTML, CSS
  - **프레임워크 및 도구**: React, VS Code, Git, Jekyll
 
